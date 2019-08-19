@@ -21,7 +21,7 @@ public class EmailSend {
            String host ="smtp.gmail.com" ;
            String user = "your MailID";
            String pass = "your MailID password";
-          // String to = "karthisandy7777@gmail.com";
+          
            String from = "from Mail ID";
            String subject = "This is confirmation number for your expertprogramming account. Please insert this number to activate your account.";
            String messageText = "Your Is Test Email :";
